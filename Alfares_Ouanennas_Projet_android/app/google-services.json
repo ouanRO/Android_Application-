@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723625641658",
+    "project_id": "localimoges",
+    "storage_bucket": "localimoges.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723625641658:android:c626be595df04c17006483",
+        "android_client_info": {
+          "package_name": "com.example.alfares_ouanennas_projet_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvQ9ofeCYNNMQ5hy-kZhKFyGeaSlK_aFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
